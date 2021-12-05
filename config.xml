@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>Y1LD1R1M</name>
+        <type>plugin</type>
+        <creationDate>2020-03-20</creationDate>
+        <lastUpdate>2020-03-31</lastUpdate>
+        <author>Y1LD1R1M</author>
+        <authorUrl>https://github.com/Y1LD1R1M-1337</authorUrl>
+        <supportUrl>https://github.com/Y1LD1R1M-1337</supportUrl>
+        <version>5.0</version>
+        <license>GNU General Public License version 2 or later</license>
+        <description>
+		<![CDATA[Author : Y1LD1R1M]]></description>
+    </metadata>
+
+    <compatibility>
+        <version>3.0</version>
+        <version>4.0</version>
+        <version>5.0</version>
+    </compatibility>
+    <updaters disabled="disabled"></updaters>
+</config>
