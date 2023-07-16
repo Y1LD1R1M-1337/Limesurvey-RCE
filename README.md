@@ -16,4 +16,4 @@ Proof of Concept:
 ### ***You can use exploit.py for automatic exploitation.***
 #### Usage: python exploit.py URL username password port
 #### Example Usage: python exploit.py http://192.26.26.128/limesurvey admin password 80
-#####https://www.linkedin.com/in/yildirimutkuu
+##### https://www.linkedin.com/in/yildirimutkuu
